@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: `/team-intro`,
   siteMetadata: {
     siteTitle: `Authentic`,
     siteTitleAlt: `Authentic`,
